@@ -1,4 +1,4 @@
 dupont
-GIRARD
+girard
 faure
 DURAND
